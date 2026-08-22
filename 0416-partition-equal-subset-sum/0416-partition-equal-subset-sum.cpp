@@ -27,7 +27,7 @@ public:
 
          if (total % 2 != 0)
             return false;
-        vector<vector<int>> dp( nums.size(),vector<int>(total  + 1, -1));
+        vector<vector<int>> dp( nums.size(),vector<int>(total/2  + 1, -1));
         
       return  solve(n-1,nums,total/2,dp);
     }
