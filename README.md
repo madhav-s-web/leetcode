@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/madhav-s-web/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/madhav-s-web/leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/madhav-s-web/leetcode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/madhav-s-web/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/madhav-s-web/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/madhav-s-web/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
