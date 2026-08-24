@@ -1,34 +1,34 @@
 class Solution {
-bool solve(int index ,vector<int>& nums ,int total, vector<vector<int>>&dp){
+     bool sumLol(int index , vector<int>& arr,  vector<vector<int>> &dp,int sum){
         
-        if(total==0)return true;
-        if(index==0) return nums[0]==total;
-        if(dp[index][total]!=-1)return dp[index][total];
+        if(index==0)return arr[index] == sum ;
+        if(dp[index][sum] != -1)return dp[index][sum];
+        
+        
         bool take = false;
         
-        if(nums[index]<= total ){
-            take = solve(index-1,nums,total-nums[index],dp);
+        if( arr[index] <= sum ){
+          take=  sumLol(index-1,arr,dp,sum-arr[index]) ;
         }
         
-        bool notTake = solve(index-1,nums,total,dp);
+       bool notTake =  sumLol(index-1,arr,dp,sum);
         
-        return dp[index][total] = take|| notTake;
+        
+        return dp[index][sum]=take||notTake;
         
     }
-
 public:
-    bool canPartition(vector<int>& nums) {
-        int n = nums.size();
-       
-          int total = 0 ; 
-        for(auto x : nums){
-            total+=x;
-        }
-
-         if (total % 2 != 0)
-            return false;
-        vector<vector<int>> dp( nums.size(),vector<int>(total/2  + 1, -1));
+    bool canPartition(vector<int>& arr) {
+        int sum=0;
+          for( int x : arr){
+             sum+=x;
+          }
+           if(sum%2 !=0)return false;
+          sum=sum/2;
         
-      return  solve(n-1,nums,total/2,dp);
+        int n = arr.size();
+        vector<vector<int>> dp ( n , vector<int>(sum+1,-1));
+        int index = n-1;
+       return  sumLol(index,arr,dp,sum);
     }
 };
