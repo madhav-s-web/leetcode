@@ -1,22 +1,5 @@
 class Solution {
-     bool sumLol(int index , vector<int>& arr,  vector<vector<int>> &dp,int sum){
-        
-        if(index==0)return arr[index] == sum ;
-        if(dp[index][sum] != -1)return dp[index][sum];
-        
-        
-        bool take = false;
-        
-        if( arr[index] <= sum ){
-          take=  sumLol(index-1,arr,dp,sum-arr[index]) ;
-        }
-        
-       bool notTake =  sumLol(index-1,arr,dp,sum);
-        
-        
-        return dp[index][sum]=take||notTake;
-        
-    }
+   
 public:
     bool canPartition(vector<int>& arr) {
         int sum=0;
@@ -26,9 +9,24 @@ public:
            if(sum%2 !=0)return false;
           sum=sum/2;
         
-        int n = arr.size();
-        vector<vector<int>> dp ( n , vector<int>(sum+1,-1));
-        int index = n-1;
-       return  sumLol(index,arr,dp,sum);
+         vector<vector<bool>>dp(arr.size() , vector<bool>(sum+1, false));
+     int  n = arr.size();
+     
+     for(int i=0 ; i< n; i++)dp[i][0]=true;
+     
+     if(arr[0] <= sum)
+    dp[0][arr[0]] = true;
+     for(int index=1;index<n;index++){
+         for(int s=1; s<=sum;s++){
+            bool notTake  = dp[index-1][s];
+            
+            bool take = false;
+            if(arr[index]<=s){
+                take = dp[index-1][s-arr[index]];
+            }
+            dp[index][s] = take|notTake;
+         }
+     }
+        return dp[n-1][sum];
     }
 };
