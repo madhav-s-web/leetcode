@@ -5,7 +5,7 @@ int solve(int index,int amount ,  vector<vector<int>> &dp,vector<int>& coins){
     if(dp[index][amount] != -1)return dp[index][amount];
 
     int take = 0;
-    if(coins[index]<= amount) {
+    if( coins[index] <= amount ) {
         take = solve(index,amount-coins[index],dp,coins);
     }
 
