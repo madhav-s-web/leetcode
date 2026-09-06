@@ -1,26 +1,57 @@
 class Solution {
-int solve(int index,int amount ,  vector<vector<int>> &dp,vector<int>& coins){
-    if(amount==0)return 1;
-    if(index<0)return 0;
-    if(dp[index][amount] != -1)return dp[index][amount];
-
-    int take = 0;
-    if( coins[index] <= amount ) {
-        take = solve(index,amount-coins[index],dp,coins);
-    }
-
-    int notTake =  solve(index-1,amount,dp,coins);
-
-     return dp[index][amount] = take+notTake ;
-    
-}
-
 public:
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
+    if(coins.size() == 0)
+    return 0;
+      vector<vector<long long>> dp(n, vector<long long>(amount + 1, 0));
+        // Amount 0 1way
+        for(int index = 0 ; index < n ; index++) {
+            dp[index][0] = 1;
+        }
+        for(int target = 0; target <= amount; target++) {
+            if(target % coins[0] == 0) {
+                dp[0][target] = 1;
+            }
+        }
 
-        vector<vector<int>> dp(n, vector<int>(amount + 1, -1));
+        if( coins[0]<= amount ) dp[0][coins[0]] =1;
+        
+        
 
-         return solve(n-1,amount,dp,coins);
+          // Fill remaining rows
+        for(int index = 1; index < n; index++) {
+
+            for(int target = 1; target <= amount; target++) {
+
+                // NOT TAKE current coin
+                long long notTake = dp[index - 1][target];
+
+                // TAKE current coin
+                long long take = 0;
+
+                if(coins[index] <= target) {
+                    take =  dp[index][target - coins[index]];
+                }
+
+                 if(take > INT_MAX || notTake > INT_MAX ||
+                   take > INT_MAX - notTake) {
+                    dp[index][target] = INT_MAX;
+                }
+                else {
+                    dp[index][target] = take + notTake;
+                }
+
+               
+            }
+        }
+
+
+
+       
+        return (int)dp[n - 1][amount];
+
+
+
     }
 };
