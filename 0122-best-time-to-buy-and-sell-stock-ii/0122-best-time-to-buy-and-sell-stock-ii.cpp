@@ -1,8 +1,9 @@
 class Solution {
-int findMaxprofit(int index , int buy, vector<int>& prices,vector<vector<int>>&dp){
+int findMaxprofit ( int index , int buy, vector<int>& prices , vector<vector<int>>&dp ){
+
     int n = prices.size();
     if(index==n)return 0;
-    if(dp[index][buy]!=-1)return dp[index][buy];
+    if(dp[index][buy]!=-1 )return dp[index][buy];
     int profit = 0;
 
     if(buy){
@@ -20,7 +21,9 @@ public:
         int n = prices.size();
         int buy = 1;
         int index=0;
-        vector<vector<int>>dp(n,vector<int>(2,-1));
+
+        vector<vector<int>>dp(n, vector<int>(2,-1));
+       
        return  findMaxprofit(index,buy,prices,dp);
      
     }
