@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/madhav-s-web/leetcode/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/madhav-s-web/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhav-s-web/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/madhav-s-web/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/madhav-s-web/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/madhav-s-web/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Stack
 |  |
 | ------- |
