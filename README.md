@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/madhav-s-web/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/madhav-s-web/leetcode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/madhav-s-web/leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhav-s-web/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhav-s-web/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/madhav-s-web/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/madhav-s-web/leetcode/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/madhav-s-web/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/madhav-s-web/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/madhav-s-web/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
