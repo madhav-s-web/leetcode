@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/madhav-s-web/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/madhav-s-web/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhav-s-web/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1092-shortest-common-supersequence](https://github.com/madhav-s-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/madhav-s-web/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Knapsack Problem
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/madhav-s-web/leetcode/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/madhav-s-web/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/madhav-s-web/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1092-shortest-common-supersequence](https://github.com/madhav-s-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/madhav-s-web/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Stack
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/madhav-s-web/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/madhav-s-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 ## Binary Search
 |  |
 | ------- |
