@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhav-s-web/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/madhav-s-web/leetcode/tree/master/0860-lemonade-change) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-s-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/madhav-s-web/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
