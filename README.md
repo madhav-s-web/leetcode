@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/madhav-s-web/leetcode/tree/master/0072-edit-distance) |
+| [0205-isomorphic-strings](https://github.com/madhav-s-web/leetcode/tree/master/0205-isomorphic-strings) |
 | [0583-delete-operation-for-two-strings](https://github.com/madhav-s-web/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/madhav-s-web/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1092-shortest-common-supersequence](https://github.com/madhav-s-web/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/madhav-s-web/leetcode/tree/master/0368-largest-divisible-subset) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/madhav-s-web/leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
