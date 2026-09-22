@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/madhav-s-web/leetcode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/madhav-s-web/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/madhav-s-web/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/madhav-s-web/leetcode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/madhav-s-web/leetcode/tree/master/0118-pascals-triangle) |
@@ -140,5 +141,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/madhav-s-web/leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhav-s-web/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/madhav-s-web/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
