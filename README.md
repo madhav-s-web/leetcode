@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/madhav-s-web/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhav-s-web/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/madhav-s-web/leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/madhav-s-web/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/madhav-s-web/leetcode/tree/master/0055-jump-game) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhav-s-web/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/madhav-s-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
