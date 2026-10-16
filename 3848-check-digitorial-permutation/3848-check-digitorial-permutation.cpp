@@ -16,35 +16,28 @@ public:
         }
 
         int x = n, sum = 0;
-        vector<int> digitValue;
+        vector<int> digitFrequency(10,0);
 
         while (x > 0) {
             int digit = x % 10;
-            digitValue.push_back(digit);
+           digitFrequency[digit]++;
             sum += factorials[digit];
             x /= 10;
         }
 
-        if (sum == n) return true;
+        if  ( sum == n ) return true;
+        
+         vector<int>sumDigitFreq(10,0) ;
 
-        sort(digitValue.begin(), digitValue.end());
+         while(sum>0){
+            int digit = sum % 10;
+             sumDigitFreq[digit]++;
+             sum=sum/10;
+         }
 
-        while (true) {
-    long long tempNum = 0;
-
-    // Skip permutations that start with zero.
-    if (digitValue[0] != 0) {
-        for (int digit : digitValue) {
-            tempNum = tempNum * 10 + digit;
-        }
-
-        if (tempNum == sum) return true;
-    }
-
-    if (!next_permutation(digitValue.begin(), digitValue.end())) {
-        break;
-    }
-}
-        return false;
+         for(int i=0;i<10;i++){
+            if(sumDigitFreq[i]!=digitFrequency[i])return false;
+         }
+        return true;
     }
 };
