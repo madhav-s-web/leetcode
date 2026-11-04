@@ -1,35 +1,41 @@
 class Solution {
-    bool palindrome(int i, int j, string &s) {
-        while (i <= j) {
-            if (s[i] == s[j]) {
-
-                i++;
-                j--;
-
-            } else {
-                return false;
-            }
+    // Expands outward from the center and returns the palindrome's length.
+    vector <int>expand(int left, int right, string& s) {
+        while (left >= 0 && right < s.length() && s[left] == s[right]) {
+            left--;
+            right++;
         }
-        return true;
+        vector<int> ans;
+         ans.push_back(left);
+        ans.push_back(right);
+        
+       return {left + 1, right - 1};
     }
 
 public:
     string longestPalindrome(string s) {
-
+        if (s.length() == 1)
+            return s;
         int maxi = INT_MIN;
         string ans = "";
-
         for (int i = 0; i < s.length(); i++) {
-            for (int j = i; j < s.length(); j++) {
-                bool isPalindrome = palindrome(i, j, s);
-                if (isPalindrome && j - i + 1 > maxi) {
-                    maxi = max(maxi, j - i + 1);
-                    ans = s.substr(i, j-i+1);
-                }
+
+            vector<int> odd = expand(i, i, s);
+            vector<int> even = expand(i, i + 1, s);
+
+            int oddLen = odd[1] - odd[0] + 1;
+            int evenLen = even[1] - even[0] + 1;
+            if (oddLen > maxi) {
+                maxi = oddLen;
+                ans = s.substr(odd[0], oddLen);
+            }
+
+            if (evenLen > maxi) {
+                maxi = evenLen;
+                ans = s.substr(even[0], evenLen);
             }
         }
-        if (maxi == INT_MIN)
-            return s.substr(0, 1);
+
         return ans;
     }
 };
