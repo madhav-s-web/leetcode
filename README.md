@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhav-s-web/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/madhav-s-web/leetcode/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/madhav-s-web/leetcode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhav-s-web/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhav-s-web/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/madhav-s-web/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/madhav-s-web/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/madhav-s-web/leetcode/tree/master/0072-edit-distance) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhav-s-web/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/madhav-s-web/leetcode/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/madhav-s-web/leetcode/tree/master/0205-isomorphic-strings) |
 | [0583-delete-operation-for-two-strings](https://github.com/madhav-s-web/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhav-s-web/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhav-s-web/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
