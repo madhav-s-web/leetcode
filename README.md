@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/madhav-s-web/leetcode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhav-s-web/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/madhav-s-web/leetcode/tree/master/0860-lemonade-change) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-s-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-s-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/madhav-s-web/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhav-s-web/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/madhav-s-web/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/madhav-s-web/leetcode/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/madhav-s-web/leetcode/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-s-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhav-s-web/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/madhav-s-web/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/madhav-s-web/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/madhav-s-web/leetcode/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-s-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-s-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-s-web/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhav-s-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/madhav-s-web/leetcode/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/madhav-s-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/madhav-s-web/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-s-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
