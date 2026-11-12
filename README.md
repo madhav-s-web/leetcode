@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/madhav-s-web/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/madhav-s-web/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/madhav-s-web/leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/madhav-s-web/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/madhav-s-web/leetcode/tree/master/0860-lemonade-change) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/madhav-s-web/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhav-s-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/madhav-s-web/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-s-web/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhav-s-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3842-toggle-light-bulbs](https://github.com/madhav-s-web/leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/madhav-s-web/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Quicksort
 |  |
 | ------- |
