@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhav-s-web/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/madhav-s-web/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-s-web/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3693-climbing-stairs-ii](https://github.com/madhav-s-web/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhav-s-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhav-s-web/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3842-toggle-light-bulbs](https://github.com/madhav-s-web/leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/madhav-s-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/madhav-s-web/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-s-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3693-climbing-stairs-ii](https://github.com/madhav-s-web/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
