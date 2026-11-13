@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/madhav-s-web/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1092-shortest-common-supersequence](https://github.com/madhav-s-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/madhav-s-web/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3931-check-adjacent-digit-differences](https://github.com/madhav-s-web/leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
 | ------- |
