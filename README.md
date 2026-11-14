@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/madhav-s-web/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/madhav-s-web/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/madhav-s-web/leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/madhav-s-web/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/madhav-s-web/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-s-web/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3842-toggle-light-bulbs](https://github.com/madhav-s-web/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/madhav-s-web/leetcode/tree/master/3843-first-element-with-unique-frequency) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/madhav-s-web/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Simulation
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/madhav-s-web/leetcode/tree/master/0169-majority-element) |
 | [3843-first-element-with-unique-frequency](https://github.com/madhav-s-web/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/madhav-s-web/leetcode/tree/master/3848-check-digitorial-permutation) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/madhav-s-web/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Divide and Conquer
 |  |
 | ------- |
