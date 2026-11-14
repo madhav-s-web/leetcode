@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/madhav-s-web/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/madhav-s-web/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/madhav-s-web/leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/madhav-s-web/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/madhav-s-web/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/madhav-s-web/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/madhav-s-web/leetcode/tree/master/0055-jump-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/madhav-s-web/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/madhav-s-web/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/madhav-s-web/leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/madhav-s-web/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhav-s-web/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/madhav-s-web/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/madhav-s-web/leetcode/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/madhav-s-web/leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhav-s-web/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/madhav-s-web/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/madhav-s-web/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/madhav-s-web/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/madhav-s-web/leetcode/tree/master/0205-isomorphic-strings) |
