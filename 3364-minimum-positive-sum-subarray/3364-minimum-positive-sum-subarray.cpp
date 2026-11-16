@@ -17,7 +17,7 @@ public:
                     int sum1= 0 ;
 
                     for(int x : temp)sum1+=x;
-                   cout<<sum1;
+                  
                     if(sum1>0) mini = min(sum1, mini);
                  }
                
