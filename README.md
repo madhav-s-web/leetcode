@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/madhav-s-web/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhav-s-web/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/madhav-s-web/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3790-smallest-all-ones-multiple](https://github.com/madhav-s-web/leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3848-check-digitorial-permutation](https://github.com/madhav-s-web/leetcode/tree/master/3848-check-digitorial-permutation) |
 ## Hash Table
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/madhav-s-web/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhav-s-web/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-s-web/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3790-smallest-all-ones-multiple](https://github.com/madhav-s-web/leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3842-toggle-light-bulbs](https://github.com/madhav-s-web/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/madhav-s-web/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/madhav-s-web/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
