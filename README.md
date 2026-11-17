@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/madhav-s-web/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhav-s-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhav-s-web/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/madhav-s-web/leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3842-toggle-light-bulbs](https://github.com/madhav-s-web/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/madhav-s-web/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/madhav-s-web/leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/madhav-s-web/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-s-web/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhav-s-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/madhav-s-web/leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3842-toggle-light-bulbs](https://github.com/madhav-s-web/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/madhav-s-web/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Quicksort
