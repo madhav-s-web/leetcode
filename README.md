@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/madhav-s-web/leetcode/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-s-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhav-s-web/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/madhav-s-web/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/madhav-s-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/madhav-s-web/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/madhav-s-web/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/madhav-s-web/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3931-check-adjacent-digit-differences](https://github.com/madhav-s-web/leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/madhav-s-web/leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhav-s-web/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/madhav-s-web/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/madhav-s-web/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3842-toggle-light-bulbs](https://github.com/madhav-s-web/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/madhav-s-web/leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Matrix
