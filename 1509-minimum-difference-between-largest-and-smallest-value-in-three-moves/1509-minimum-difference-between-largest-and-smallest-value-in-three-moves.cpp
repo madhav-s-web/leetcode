@@ -13,7 +13,7 @@ public:
          if(n > 2) x4 = nums[n-3] - nums[1];
 
         int minX1X2 = min(x1,x2);
-        cout<<x1<<" "<<x2<<" "<<x3<<" "<<x4<<" ";
+        
         int minX3X3 = min(x3,x4);
 
         return min(minX1X2,minX3X3);
