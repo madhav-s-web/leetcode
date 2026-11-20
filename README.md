@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/madhav-s-web/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/madhav-s-web/leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madhav-s-web/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/madhav-s-web/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/madhav-s-web/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhav-s-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/madhav-s-web/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/madhav-s-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/madhav-s-web/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-s-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/madhav-s-web/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/madhav-s-web/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/madhav-s-web/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Knapsack Problem
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/madhav-s-web/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/madhav-s-web/leetcode/tree/master/0231-power-of-two) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/madhav-s-web/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Recursion
 |  |
 | ------- |
