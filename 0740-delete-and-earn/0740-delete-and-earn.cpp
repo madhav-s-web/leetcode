@@ -1,6 +1,19 @@
 
 class Solution {
 public:
+    // Returns the maximum points considering values from 0 to i.
+    int solve(int i, vector<int>& points, vector<int>& dp) {
+        if (i == 0) return points[0];
+        if (i < 0) return 0;
+
+        if (dp[i] != -1) return dp[i];
+
+        int pick = points[i] + solve(i - 2, points, dp);
+        int skip = solve(i - 1, points, dp);
+
+        return dp[i] = max(pick, skip);
+    }
+
     int deleteAndEarn(vector<int>& nums) {
         int maxi = *max_element(nums.begin(), nums.end());
 
@@ -10,18 +23,8 @@ public:
             points[x] += x;
         }
 
-        vector<int> dp(maxi + 1, 0);
+        vector<int> dp(maxi + 1, -1);
 
-        dp[0] = points[0];
-
-        if (maxi >= 1) {
-            dp[1] = max(points[0], points[1]);
-        }
-
-        for (int i = 2; i <= maxi; i++) {
-            dp[i] = max(dp[i - 1], dp[i - 2] + points[i]);
-        }
-
-        return dp[maxi];
+        return solve(maxi, points, dp);
     }
 };
