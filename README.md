@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhav-s-web/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/madhav-s-web/leetcode/tree/master/0740-delete-and-earn) |
 | [0860-lemonade-change](https://github.com/madhav-s-web/leetcode/tree/master/0860-lemonade-change) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhav-s-web/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-s-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/madhav-s-web/leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-s-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/madhav-s-web/leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/madhav-s-web/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhav-s-web/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhav-s-web/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/madhav-s-web/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhav-s-web/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/madhav-s-web/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/madhav-s-web/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhav-s-web/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhav-s-web/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
@@ -332,4 +335,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/madhav-s-web/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/madhav-s-web/leetcode/tree/master/0229-majority-element-ii) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhav-s-web/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhav-s-web/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
