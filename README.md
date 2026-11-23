@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/madhav-s-web/leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-s-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/madhav-s-web/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/madhav-s-web/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhav-s-web/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/madhav-s-web/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madhav-s-web/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/madhav-s-web/leetcode/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/madhav-s-web/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/madhav-s-web/leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/madhav-s-web/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madhav-s-web/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/madhav-s-web/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/madhav-s-web/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-s-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/madhav-s-web/leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-s-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/madhav-s-web/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madhav-s-web/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/madhav-s-web/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/madhav-s-web/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
