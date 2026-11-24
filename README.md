@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/madhav-s-web/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/madhav-s-web/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhav-s-web/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhav-s-web/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-s-web/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3693-climbing-stairs-ii](https://github.com/madhav-s-web/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhav-s-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/madhav-s-web/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhav-s-web/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhav-s-web/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhav-s-web/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/madhav-s-web/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhav-s-web/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/madhav-s-web/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/madhav-s-web/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhav-s-web/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhav-s-web/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -346,4 +349,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhav-s-web/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhav-s-web/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhav-s-web/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
