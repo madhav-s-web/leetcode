@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/madhav-s-web/leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-s-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/madhav-s-web/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhav-s-web/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/madhav-s-web/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhav-s-web/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/madhav-s-web/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/madhav-s-web/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/madhav-s-web/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-s-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhav-s-web/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/madhav-s-web/leetcode/tree/master/0054-spiral-matrix) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhav-s-web/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhav-s-web/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/madhav-s-web/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/madhav-s-web/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/madhav-s-web/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhav-s-web/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhav-s-web/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhav-s-web/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
