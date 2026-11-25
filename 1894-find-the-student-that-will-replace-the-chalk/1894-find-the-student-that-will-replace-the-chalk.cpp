@@ -6,9 +6,7 @@ public:
         long long  sum = 0 ;
          for(int x : chalk)sum+=x;
 
-          while(k>=sum){
-            k=k-sum;
-          }
+         k %= sum;
 
           if(sum==0)return chalk[n-1];
 
