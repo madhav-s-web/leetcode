@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/madhav-s-web/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/madhav-s-web/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/madhav-s-web/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/madhav-s-web/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/madhav-s-web/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/madhav-s-web/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhav-s-web/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/madhav-s-web/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/madhav-s-web/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/madhav-s-web/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/madhav-s-web/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/madhav-s-web/leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/madhav-s-web/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhav-s-web/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/madhav-s-web/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/madhav-s-web/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
