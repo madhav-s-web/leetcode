@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/madhav-s-web/leetcode/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/madhav-s-web/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhav-s-web/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0697-degree-of-an-array](https://github.com/madhav-s-web/leetcode/tree/master/0697-degree-of-an-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhav-s-web/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/madhav-s-web/leetcode/tree/master/0740-delete-and-earn) |
 | [0860-lemonade-change](https://github.com/madhav-s-web/leetcode/tree/master/0860-lemonade-change) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/madhav-s-web/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/madhav-s-web/leetcode/tree/master/0229-majority-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/madhav-s-web/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0697-degree-of-an-array](https://github.com/madhav-s-web/leetcode/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/madhav-s-web/leetcode/tree/master/0740-delete-and-earn) |
 | [2747-count-zero-request-servers](https://github.com/madhav-s-web/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhav-s-web/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
