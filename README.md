@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhav-s-web/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/madhav-s-web/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/madhav-s-web/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/madhav-s-web/leetcode/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/madhav-s-web/leetcode/tree/master/0205-isomorphic-strings) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhav-s-web/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/madhav-s-web/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/madhav-s-web/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/madhav-s-web/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhav-s-web/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/madhav-s-web/leetcode/tree/master/0231-power-of-two) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/madhav-s-web/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/madhav-s-web/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/madhav-s-web/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/madhav-s-web/leetcode/tree/master/0169-majority-element) |
