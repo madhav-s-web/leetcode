@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/madhav-s-web/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/madhav-s-web/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/madhav-s-web/leetcode/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/madhav-s-web/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/madhav-s-web/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhav-s-web/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhav-s-web/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/madhav-s-web/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/madhav-s-web/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/madhav-s-web/leetcode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/madhav-s-web/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/madhav-s-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/madhav-s-web/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/madhav-s-web/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
