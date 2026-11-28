@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/madhav-s-web/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madhav-s-web/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/madhav-s-web/leetcode/tree/master/2747-count-zero-request-servers) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/madhav-s-web/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhav-s-web/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/madhav-s-web/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/madhav-s-web/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/madhav-s-web/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/madhav-s-web/leetcode/tree/master/0231-power-of-two) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/madhav-s-web/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/madhav-s-web/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Recursion
 |  |
 | ------- |
